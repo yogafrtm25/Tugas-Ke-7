@@ -8,8 +8,8 @@ Kelas   : TI.22.A1
 ### DAFTAR ISI <br>
 | No | Description | Link |
 | ----- | ----- | ---- |
-| 1 | Lab 2 : Struktur Kondisi | [Click Here](#Lab2:StrukturKondisi) |
-| 2 | Lab 3 : Perulangan | [Click Here](#Lab3:Perulangan) |
+| 1 | Lab 2 : Struktur Kondisi | [Click Here](#Lab-2-Struktur-Kondisi) |
+| 2 | Lab 3 : Perulangan | [Click Here](#Lab-3-Perulangan) |
 | 3 | Labpy02 | [Click Here](#Labpy02) |
 | 4 | Labpy03 | [Click Here](#Labpy03) |
 | 5 | Author  : Yoga Pratama | [Click Here](#Author:YogaPratama) |
@@ -19,7 +19,7 @@ Kelas   : TI.22.A1
 
 # KONDISI DAN PERULANGAN
 
-## Lab 2 : Struktur Kondisi
+## Lab 2 Struktur Kondisi
 
 ### Latihan 1
 
@@ -81,7 +81,7 @@ else:
 
 ![Run Lat 2 kondisi](https://user-images.githubusercontent.com/115678171/200156652-6afabd94-a261-47f7-a979-03a31c7376d6.png)
 
-## Lab 3 : Perulangan
+## Lab 3 Perulangan
 
 ### Latihan 1
 • Buat program dengan perulangan bertingkat (nested) for yang menghasilkan output sebagai berikut:
