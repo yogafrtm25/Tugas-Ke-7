@@ -12,7 +12,7 @@ Kelas   : TI.22.A1
 | 2 | Lab 3 : Perulangan | [Click Here](#Lab-3-Perulangan) |
 | 3 | Labpy02 | [Click Here](#Labpy02) |
 | 4 | Labpy03 | [Click Here](#Labpy03) |
-| 5 | Author  : Yoga Pratama | [Click Here](#Author:YogaPratama) |
+| 5 | Author  : Yoga Pratama | [Click Here](#Author-Yoga-Pratama) |
 
 
 
@@ -323,5 +323,5 @@ for i in lb:
 
 Sekian penjelasan dari saya Terima Kasih 
 
-### Author : Yoga Pratama
+###Author Yoga Pratama
 
