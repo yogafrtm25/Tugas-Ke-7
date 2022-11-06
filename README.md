@@ -8,7 +8,7 @@ Kelas   : TI.22.A1
 ### DAFTAR ISI <br>
 | No | Description | Link |
 | ----- | ----- | ---- |
-| 1 | Lab 2 : Struktur Kondisi | [Click Here](#Lab2:Struktur-Kondisi) |
+| 1 | Lab 2 : Struktur Kondisi | [Click Here](#Lab2StrukturKondisi) |
 | 2 | Lab 3 : Perulangan | [Click Here](#Lab-3-:-Perulangan) |
 | 3 | Labpy02 | [Click Here](#Labpy02) |
 | 4 | Labpy03 | [Click Here](#Labpy03) |
